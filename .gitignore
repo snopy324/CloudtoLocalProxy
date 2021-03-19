@@ -369,4 +369,4 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
-CloudtoLocalProxy\appsettings.json
+CloudtoLocalProxy/appsettings.json
